@@ -1,0 +1,20 @@
+## Information
+HELLO WORLD
+sc MD terbaru untuk kalian yang sudah buy ya guys. 
+##Spesifikasi sc LAUNCHER-MD
+BOT TYPE Case X Plugins
+FITUR 300++
+MENU AI
+MENU GROUP
+MENU TOOLS
+MENU RPG
+MENU STICKER
+MENU INFORMASI
+DLL.
+SUPPORT TERMUX
+## PENGEMBANG/DEVELOPER
+ZENN-OFFC
+Reyz4you
+XOBE-DEVELOPMENT
+
+

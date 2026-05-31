@@ -1,20 +1,7 @@
-## Information
-HELLO WORLD
-sc MD terbaru untuk kalian yang sudah buy ya guys. 
-##Spesifikasi sc LAUNCHER-MD
-BOT TYPE Case X Plugins
-FITUR 300++
-MENU AI
-MENU GROUP
-MENU TOOLS
-MENU RPG
-MENU STICKER
-MENU INFORMASI
-DLL.
-SUPPORT TERMUX
-## PENGEMBANG/DEVELOPER
-ZENN-OFFC
-Reyz4you
-XOBE-DEVELOPMENT
+SC ASTROBOT MD FREE
 
+LINK SC ASTROBOT MD
+https://tmpfiles.org/dl/wiwkfHh4enOk/1780243862040.zip
 
+LINK SALURAN OWNER
+https://whatsapp.com/channel/0029Vb78WQAHwXbGVsvolo2x
